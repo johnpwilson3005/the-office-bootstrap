@@ -1,0 +1,103 @@
+/* fonts cheat sheet
+font-family: 'Bree Serif', serif;
+font-family: 'Righteous', cursive; */
+
+body {
+  margin: 0 auto;
+}
+
+.container-img {
+  background-image: url("../img/could-be-us.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.choose-container {
+  background-color: #DACFAC;
+  display: flex;
+  font-family: 'Righteous', cursive;
+  font-size: 4em;
+}
+
+.square-pictures {
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #DACFAC;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Bree Serif', serif;
+}
+
+.andy {
+  padding-bottom: 60px;
+}
+
+.jim {
+  padding-bottom: 60px;
+}
+
+.dwight {
+  padding-bottom: 60px;
+}
+
+.ryan {
+  padding-bottom: 60px;
+}
+
+.michael {
+  padding-bottom: 60px;
+}
+
+.toby {
+  padding-bottom: 60px;
+}
+
+.meredith {
+  padding-bottom: 60px;
+}
+
+.creed {
+  padding-bottom: 60px;
+}
+
+.angela {
+  padding-bottom: 60px;
+}
+
+.kevin {
+  padding-bottom: 60px;
+}
+
+.stanley {
+  padding-bottom: 60px;
+}
+
+.phyllis {
+  padding-bottom: 60px;
+}
+
+.pam {
+  padding-bottom: 60px;
+}
+
+.erin {
+  padding-bottom: 60px;
+}
+
+.oscar {
+  padding-bottom: 60px;
+}
+
+.kelly {
+  padding-bottom: 60px;
+}
+
+.jan {
+  padding-bottom: 60px;
+}
+
+.darryl {
+  padding-bottom: 60px;
+}
